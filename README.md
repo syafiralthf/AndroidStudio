@@ -21,4 +21,4 @@
 <img width="1282" height="416" alt="image" src="https://github.com/user-attachments/assets/389ca6a9-87ab-479c-b5ab-4e9437a828e2" />
 
 
-https://app.clickup.com/t/86eve38nn?comment=90180167232605
+https://t90181768492.p.clickup-attachments.com/t90181768492/7b1ed312-2776-46eb-86f1-66f8195e94a5/Perekaman%20Layar%202025-11-06%20204059.mp4?open=true
