@@ -22,3 +22,7 @@
 
 
 https://t90181768492.p.clickup-attachments.com/t90181768492/7b1ed312-2776-46eb-86f1-66f8195e94a5/Perekaman%20Layar%202025-11-06%20204059.mp4?open=true
+
+## Splash Screen
+
+<img width="874" height="584" alt="image" src="https://github.com/user-attachments/assets/298bd5d7-94ba-4c8e-b432-52a876d3c003" />
