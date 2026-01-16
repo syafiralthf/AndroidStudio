@@ -1,0 +1,32 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/etTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Tambahkan judul"
+        android:background="#EDC847"
+        android:padding="20dp" />
+
+    <EditText
+        android:id="@+id/etContent"
+        android:layout_width="match_parent"
+        android:layout_height="550dp"
+        android:layout_marginTop="20dp"
+        android:background="#EDC847"
+        android:hint="Catat sesuatu"
+        android:gravity="top"
+        android:padding="20dp" />
+
+    <Button
+        android:id="@+id/btnSave"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="#EDC847"
+        android:text="Simpan" />
+</LinearLayout>

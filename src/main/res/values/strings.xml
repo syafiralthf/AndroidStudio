@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NoteMate</string>
+    <string name="datang">NoteMate</string>
+    <string name="notemate">NoteMate</string>
+    <string name="halo_daftar_kamu_masih_kosong_nih">Halo! Daftar kamu masih kosong nih</string>
+    <string name="jakarta_indonesia">Jakarta, Indonesia</string>
+    <string name="todo">TODO</string>
+</resources>
